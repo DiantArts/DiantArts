@@ -5,9 +5,8 @@ Some projects I worked (or still am working) on:
 - [Akanya](https://github.com/DiantArts/Akanya): My biggest (personal) project I ever started... a Game Engine. I discovered OpenGL with it and made to many mistakes that I couldn't continue moving forward with it anymore. I did not give up though, as I started over with [ecs](https://github.com/DiantArts/ecs.git).
 - [ecs](https://github.com/DiantArts/ecs.git): This project (still a game engine) uses an ECS architecture to correct the problems I had with the OOP in the [Akanya](https://github.com/DiantArts/Akanya) project. Even tho it was going well, My ECS was starting to be dependent of the all engine I was building, especially OpenGL. That's why I decided to move a step back and start to correct the mistakes (and add some functionnalities) of my ECS and put it into an extern standalone library. This ecs library is still in progress and I'm currently working in local until I learn about CI/CD (since unitary testing is not enough).
 - [MmoNetwork](https://github.com/DiantArts/mmoNetwork): A project that were initially a school project, I decided to push it forward to implement it in my game engine later. The goal of this (yet incomplete) project is to use Asio to handle a massive amount of connected clients. Once the base will be set up, this project will slowly turn to be optimize for game engines.
-All those projects, even though they are not completed, were very challenging for me. I learned a lot and will keey pushing them forward until I can finally combine them all into my game engine.
 
-Before that, I still have things I plan to do:
+All those projects, even though they are not completed, were very challenging for me. I learned a lot and will keey pushing them forward until I can finally combine them all into my game engine. Before that, I still have things I plan to do:
 - Extract the ECS in the engine to create a standalone ECS library.
 - Learn about CI/CD.
 - Learn about Vulkan instead of OpenGL.
