@@ -1,5 +1,7 @@
-Hi everyone,
-I'm a random student doing my best learning C++.
+Hi,
+I'm a student doing my best learning C++ through my personal projects outside my school life.
+Some projects
+[Vue](https://github.com/DiantArts/mmoNetwork)
 If you're passing by, dont hesitate to let me know what you think of my work at: DiantArts@gmail.com
 
 <!---
