@@ -1,4 +1,5 @@
 Hi,
+
 I'm a student doing my best learning C++ through my personal projects outside my school life.
 
 Some projects I worked (or am still working) on:
