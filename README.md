@@ -1,4 +1,4 @@
-Hi,
+Hi! Thank you for passing by.
 
 I'm a student doing my best learning C++ through my personal projects outside my school life.
 
@@ -12,8 +12,9 @@ All those projects, even though they are not completed, were very challenging fo
 - Learn about CI / CD.
 - Learn about Vulkan instead of OpenGL.
 - Create a sound library, using OpenAL or something else depending on what I find.
+- Finisd my [coding style](https://github.com/DiantArts/CodingStyle)
 
-If you're passing by, don't hesitate to let me know what you think of my work at: DiantArts@gmail.com
+If you wish, don't hesitate to let me know what you think of my work at: DiantArts@gmail.com, I would be glad to have external insights.
 
 <!---
 DiantArts/DiantArts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
