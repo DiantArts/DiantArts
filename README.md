@@ -1,6 +1,6 @@
 Hi! Thank you for passing by.
 
-I'm a student doing my best learning C++ through my personal projects outside my school life.
+I'm a passionate student doing my best learning C++ and graphical programming (as well as many other subject, as long as it is C++) through my personal projects outside my school life.
 
 Some projects I worked (or am still working) on:
 - [Akanya](https://github.com/DiantArts/Akanya): My biggest (personal) project I ever started... a Game Engine. I discovered OpenGL with it and made too many mistakes that I couldn't continue moving forward with it anymore. I did not give up though, as I started over with [ecs](https://github.com/DiantArts/ecs.git).
