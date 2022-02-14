@@ -12,7 +12,7 @@ All those projects, even though they are not completed, were very challenging fo
 - Learn about CI / CD.
 - Learn about Vulkan instead of OpenGL.
 - Create a sound library, using OpenAL or something else depending on what I find.
-- Finisd my [coding style](https://github.com/DiantArts/CodingStyle)
+- Finishing my [coding style](https://github.com/DiantArts/CodingStyle)
 
 If you wish, don't hesitate to let me know what you think of my work at: evan.loiseau@epitech.eu, I would be glad to have external insights.
 
