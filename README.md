@@ -8,8 +8,8 @@ Some projects I worked (or am still working) on:
 - [MmoNetwork](https://github.com/DiantArts/mmoNetwork): A project that was initially a school project, I decided to push it forward to implement it in my game engine later. The goal of this (yet incomplete) project is to use Asio to handle a massive amount of connected clients. Once the base is set up, this project will slowly turn into a project optimized for game engines.
 
 All those projects, even though they are not completed, were very challenging for me. I learned a lot and will keep pushing them forward until I can finally combine them all into my game engine. Before that, I still have things I plan to do:
-- Extract the ECS in the engine to create a standalone ECS library.
-- Learn about CI / CD.
+- Extract the ECS in the engine to create a standalone ECS library (Currently working on it).
+- Learn about CI / CD (Currently working on it).
 - Learn about Vulkan instead of OpenGL.
 - Create a sound library, using OpenAL or something else depending on what I find.
 - Finishing my [coding style](https://github.com/DiantArts/CodingStyle)
