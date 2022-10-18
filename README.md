@@ -24,7 +24,7 @@ Some other projects I have in my head that I might start:
 - Create a sound library, using OpenAL or something else depending on what I find.
 - Finishing my [coding style](https://github.com/DiantArts/CodingStyle)
 
-If you wish, don't hesitate to let me know what you think of my work at: evan.loiseau@epitech.eu, I would be glad to have external insights.
+Don't hesitate to let me know what you think of my work at: evan.loiseau@epitech.eu, I would be glad to have external insights.
 
 <!---
 DiantArts/DiantArts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
