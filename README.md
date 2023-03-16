@@ -2,7 +2,7 @@ Hi! Thank you for passing by.
 
 I'm a passionate student learning C++ and graphical programming (as well as many other subjects, related to C++) through personal projects.
 
-I am currently working on [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and asio and all the xrn projects described bellow.
+I am currently working on [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and all the xrn projects described bellow.
 
 Some past and current projects:
 - [MmoNetwork](https://github.com/DiantArts/mmoNetwork): A project that was initially a school project, I decided to push it forward to implement it in my future game engine. The goal of this (yet incomplete) project is to use Asio to handle a massive amount of connected clients. Once the base is set up, this project will slowly turn into a project optimized for game engines. I paused this project to learn graphical programming.
