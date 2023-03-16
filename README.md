@@ -16,7 +16,7 @@ Some past and current projects:
   - [xrnBlank](https://github.com/DiantArts/xrnBlank): A repository template that uses cmake and simplifies dependency managment.
   - [xrnCMake](https://github.com/DiantArts/xrnCMake): A cmake library that [xrnBlank](https://github.com/DiantArts/xrnBlank) uses to abstract details of CMake implementation and simplify the usage of external and internal(xrns) dependencies.
   - [xrnLog](https://github.com/DiantArts/xrnLog): A Logger abstracting the [spdlog from Gabime](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) libraries to suit xrn projects needs.
-  - [xrnUtil](https://github.com/DiantArts/xrnUtil): A simple library of utilities that can always be useful such as time management and an (cool) Optional Reference implementation.
+  - [xrnUtil](https://github.com/DiantArts/xrnUtil): A simple library of utilities that can always be useful such as time management, ID abstraction, and an Optional Reference implementation.
   - [xrnMeta](https://github.com/DiantArts/xrnMeta): A template metaprogramming library that puts most of my reusable meta programming into a single library to avoid reimplementation. I mostly use the contraints but the rest may be useful as well.
   - [xrnNetwork](https://github.com/DiantArts/xrnNetwork): A new iteration of the [MmoNetwork](https://github.com/DiantArts/mmoNetwork) project to simplify it by using the xrn suite and my new knowledge.
   - [xrn3dPong](https://github.com/DiantArts/xrn3dPong); A multiplayer 3D pong using all the previous xrn projects to group them into an actual demonstrable game using [VulkanSandbox](https://github.com/DiantArts/VulkanSandbox) as base.
