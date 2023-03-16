@@ -12,14 +12,14 @@ Some past and current projects:
   - The first iteration was the extraction of the library from the [EcsGameEngine](https://github.com/DiantArts/EcsGameEngine) as explained in the description of this project. While the implementation ended up quite stable ([0.3 alpha version](https://github.com/DiantArts/xrnEcs/releases/tag/0.3-alpha)), it was hard to implement, use, and awful to update. For these reasons, and after trying to use [EnTT from Skypjack](https://github.com/skypjack/entt), I thought about a better and simpler way to implement it, which gave birth to the second iteration.
   - The second iteration is still in developpement and has all external functionalitites extracted to external libraries. This iteration of the project is what gave birth to the xrn suit of projects.
   - [VulkanSandbox](https://github.com/DiantArts/VulkanSandbox): A sandbox to learn Vulkan. I have been following a really fantastic guide made by [BrendanGalea on youtube](https://www.youtube.com/c/BrendanGalea) while implementing an ECS approach to the turorial. This project is currently in standby, waiting for the xrn suite to progress. Once it does, I'll push the project forward, starting with networking.
-  - The xrn suite:
-    - [xrnBlank](https://github.com/DiantArts/xrnBlank): A repository template that uses cmake and simplifies dependency managment.
-    - [xrnCMake](https://github.com/DiantArts/xrnCMake): A cmake library that [xrnBlank](https://github.com/DiantArts/xrnBlank) uses to abstract details of CMake implementation and simplify the usage of external and internal(xrns) dependencies.
-    - [xrnLog](https://github.com/DiantArts/xrnLog): A Logger abstracting the [spdlog from Gabime](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) libraries to suit xrn projects needs.
-    - [xrnUtil](https://github.com/DiantArts/xrnUtil): A simple library of utilities that can always be useful such as time management and an (cool) Optional Reference implementation.
-    - [xrnMeta](https://github.com/DiantArts/xrnMeta): A template metaprogramming library that puts most of my reusable meta programming into a single library to avoid reimplementation. I mostly use the contraints but the rest may be useful as well.
-    - [xrnNetwork](https://github.com/DiantArts/xrnNetwork): A new iteration of the [MmoNetwork](https://github.com/DiantArts/mmoNetwork) project to simplify it by using the xrn suite and my new knowledge.
-    - [xrn3dPong](https://github.com/DiantArts/xrn3dPong); A multiplayer 3D pong using all the previous xrn projects to group them into an actual demonstrable game.
+- The xrn suite:
+  - [xrnBlank](https://github.com/DiantArts/xrnBlank): A repository template that uses cmake and simplifies dependency managment.
+  - [xrnCMake](https://github.com/DiantArts/xrnCMake): A cmake library that [xrnBlank](https://github.com/DiantArts/xrnBlank) uses to abstract details of CMake implementation and simplify the usage of external and internal(xrns) dependencies.
+  - [xrnLog](https://github.com/DiantArts/xrnLog): A Logger abstracting the [spdlog from Gabime](https://github.com/gabime/spdlog) and [fmt](https://github.com/fmtlib/fmt) libraries to suit xrn projects needs.
+  - [xrnUtil](https://github.com/DiantArts/xrnUtil): A simple library of utilities that can always be useful such as time management and an (cool) Optional Reference implementation.
+  - [xrnMeta](https://github.com/DiantArts/xrnMeta): A template metaprogramming library that puts most of my reusable meta programming into a single library to avoid reimplementation. I mostly use the contraints but the rest may be useful as well.
+  - [xrnNetwork](https://github.com/DiantArts/xrnNetwork): A new iteration of the [MmoNetwork](https://github.com/DiantArts/mmoNetwork) project to simplify it by using the xrn suite and my new knowledge.
+  - [xrn3dPong](https://github.com/DiantArts/xrn3dPong); A multiplayer 3D pong using all the previous xrn projects to group them into an actual demonstrable game.
 
 All these projects were very challenging for multiple reasons. I learned a lot and will keep pushing them forward until I can finally combine them all into a game engine.
 
