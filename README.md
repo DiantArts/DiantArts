@@ -2,7 +2,7 @@ Hi! Thank you for passing by.
 
 I'm a passionate student learning C++ and graphical programming (as well as many other subjects, related to C++) through personal projects.
 
-I am currently working on [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and all the xrn projects described bellow.
+I am currently working on [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and all the xrn projects described bellow, and [xrnBoidsSim](https://github.com/DiantArts/xrnBoidsSim), a flock simulator (boids).
 
 Some past and current projects:
 - [MmoNetwork](https://github.com/DiantArts/mmoNetwork): A project that was initially a school project, I decided to push it forward to implement it in my future game engine. The goal of this (yet incomplete) project is to use Asio to handle a massive amount of connected clients. Once the base is set up, this project will slowly turn into a project optimized for game engines. I paused this project to learn graphical programming.
@@ -20,6 +20,7 @@ Some past and current projects:
   - [xrnMeta](https://github.com/DiantArts/xrnMeta): A template metaprogramming library that puts most of my reusable meta programming into a single library to avoid reimplementation. I mostly use the contraints but the rest may be useful as well.
   - [xrnNetwork](https://github.com/DiantArts/xrnNetwork): A new iteration of the [MmoNetwork](https://github.com/DiantArts/mmoNetwork) project to simplify it by using the xrn suite and my new knowledge.
   - [xrn3dPong](https://github.com/DiantArts/xrn3dPong); A multiplayer 3D pong using all the previous xrn projects to group them into an actual demonstrable game using [VulkanSandbox](https://github.com/DiantArts/VulkanSandbox) as base.
+  - [xrnBoidsSim](https://github.com/DiantArts/xrnBoidsSim); A 3D flock simulator using all the xrn projects try out the boids concept.
 
 All these projects were very challenging for multiple reasons. I learned a lot and will keep pushing them forward until I can finally combine them all into a game engine.
 
