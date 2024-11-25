@@ -4,7 +4,7 @@ I'm a passionate game programmer learning C++ and Unreal Engine through personal
 
 I am currently working on a private RPG game on steam that i hope will see it's private alpha in a few months
 
-Some past and current projects:
+Some past projects:
 - [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and all the xrn projects described bellow
 - [xrnBoidsSim](https://github.com/DiantArts/xrnBoidsSim), a flock simulator (boids).
 - [MmoNetwork](https://github.com/DiantArts/mmoNetwork): A project that was initially a school project, I decided to push it forward to implement it in my future game engine. The goal of this (yet incomplete) project is to use Asio to handle a massive amount of connected clients. Once the base is set up, this project will slowly turn into a project optimized for game engines. I paused this project to learn graphical programming.
