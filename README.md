@@ -1,10 +1,12 @@
 Hi! Thank you for passing by.
 
-I'm a passionate student learning C++ and graphical programming (as well as many other subjects, related to C++) through personal projects.
+I'm a passionate game programmer learning C++ and Unreal Engine through personal projects.
 
-I am currently working on [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and all the xrn projects described bellow, and [xrnBoidsSim](https://github.com/DiantArts/xrnBoidsSim), a flock simulator (boids).
+I am currently working on a private RPG game on steam that i hope will see it's private alpha in a few months
 
 Some past and current projects:
+- [xrn3dPong](https://github.com/DiantArts/xrn3dPong), a linux only 3D multiplayer pong using vulkan and all the xrn projects described bellow
+- [xrnBoidsSim](https://github.com/DiantArts/xrnBoidsSim), a flock simulator (boids).
 - [MmoNetwork](https://github.com/DiantArts/mmoNetwork): A project that was initially a school project, I decided to push it forward to implement it in my future game engine. The goal of this (yet incomplete) project is to use Asio to handle a massive amount of connected clients. Once the base is set up, this project will slowly turn into a project optimized for game engines. I paused this project to learn graphical programming.
 - [Akanya](https://github.com/DiantArts/Akanya): This is the first iteration of my biggest personal project, a Game Engine. I discovered OpenGL with this one but made too many beginner mistakes, such as using the object oriented approach, which made me unable to move forward correctly. While I did not give up the idea of a Game Engine, I decided to step back a bit by starting the project all over again with an ECS approach [EcsGameEngine](https://github.com/DiantArts/EcsGameEngine).
 - [EcsGameEngine](https://github.com/DiantArts/EcsGameEngine): This project, which is still a game engine, uses an ECS architecture to correct the problems I had with the OOP in the [Akanya](https://github.com/DiantArts/Akanya) project. Even though it was going well, I realised My ECS implementation was completly dependent on the actual project [EcsGameEngine](https://github.com/DiantArts/EcsGameEngine) project, especially OpenGL. That is when I decided to move a step back once again and extract the ECS implementation into an external standalone library. This is how the [xrnEcs](https://github.com/DiantArts/xrnEcs) library started.
